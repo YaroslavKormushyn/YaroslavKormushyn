@@ -1,8 +1,6 @@
 <img src="images/svg/header_en.svg"></img>
 
-<h1 align="center">Hi 👋, I'm Yaroslav</h1>
-
-<h3 align="center">A passionate full-stack developer from Ukraine</h3>
+<h3 align="center">I'm Yaroslav, a passionate full-stack developer from <img src="https://github.com/stevenrskelton/flag-icon/blob/master/svg/country-4x3/ua.svg" style="height:20px;" /> Ukraine</h3>
 
 🔭 I’m currently working at [Idun Real Estate Solutions](https://idunrealestate.com/)\
 🌱 I’m currently learning **Azure Functions, Angular 16**\
