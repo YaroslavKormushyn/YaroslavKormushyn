@@ -2,8 +2,8 @@
 
 <h3 align="center">I'm Yaroslav, a passionate full-stack developer from <img src="https://github.com/stevenrskelton/flag-icon/blob/master/svg/country-4x3/ua.svg" style="height:20px;" /> Ukraine</h3>
 
-🔭 I’m currently working at [Idun Real Estate Solutions](https://idunrealestate.com/)\
-🌱 I’m currently learning **Azure Functions, Angular 16**\
+🔭 Working at [Idun Real Estate Solutions](https://idunrealestate.com/)\
+🌱 Learning **Azure Functions, Angular 16**\
 👨‍💻 All of my projects are available at [https://yaroslavkormushyn.github.io/](https://yaroslavkormushyn.github.io/)\
 💬 Ask me about **Angular, ASP.NET Core, Azure**\
 
