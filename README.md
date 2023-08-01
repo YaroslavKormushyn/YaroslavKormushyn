@@ -11,7 +11,7 @@
              alt="yaroslavkormushyn" /></a> </p>
 
 - 🔭 I’m currently working at [Idun Real Estate Solutions](https://idunrealestate.com/)
-- 🌱 I’m currently learning **Azure Functions, Angular 12**
+- 🌱 I’m currently learning **Azure Functions, Angular 16**
 - 👨‍💻 All of my projects are available at [https://yaroslavkormushyn.github.io/](https://yaroslavkormushyn.github.io/)
 - 💬 Ask me about **Angular, ASP.NET Core, Azure**
 - 📫 How to reach me **ykormushyn@gmail.com**
