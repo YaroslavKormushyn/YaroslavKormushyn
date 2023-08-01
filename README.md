@@ -1,176 +1,177 @@
+<img src="images/svg/header_en.svg"></img>
+
 <h1 align="center">Hi 👋, I'm Yaroslav</h1>
 
 <h3 align="center">A passionate full-stack developer from Ukraine</h3>
 
-<p align="left"> <img
-         src="https://komarev.com/ghpvc/?username=yaroslavkormushyn&label=Profile%20views&color=0e75b6&style=flat"
-         alt="yaroslavkormushyn" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-             src="https://github-profile-trophy.vercel.app/?username=yaroslavkormushyn&column=7&margin-w=10"
-             alt="yaroslavkormushyn" /></a> </p>
-
-- 🔭 I’m currently working at [Idun Real Estate Solutions](https://idunrealestate.com/)
-- 🌱 I’m currently learning **Azure Functions, Angular 16**
-- 👨‍💻 All of my projects are available at [https://yaroslavkormushyn.github.io/](https://yaroslavkormushyn.github.io/)
-- 💬 Ask me about **Angular, ASP.NET Core, Azure**
-- 📫 How to reach me **ykormushyn@gmail.com**
+🔭 I’m currently working at [Idun Real Estate Solutions](https://idunrealestate.com/)\
+🌱 I’m currently learning **Azure Functions, Angular 16**\
+👨‍💻 All of my projects are available at [https://yaroslavkormushyn.github.io/](https://yaroslavkormushyn.github.io/)\
+💬 Ask me about **Angular, ASP.NET Core, Azure**\
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-    <a href="https://dev.to/yaroslavkormushyn"
-       target="blank"><img align="center"
-             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
-             alt="yaroslavkormushyn"
-             height="30"
-             width="40" /></a>
-    <a href="https://linkedin.com/in/ykormushyn"
-       target="blank"><img align="center"
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-             alt="ykormushyn"
-             height="30"
-             width="40" /></a>
-    <a href="https://stackoverflow.com/users/13977648"
-       target="blank"><img align="center"
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-             alt="13977648"
-             height="30"
-             width="40" /></a>
-    <a href="https://www.youtube.com/c/ucn0kvxy7zvvylzp8cphinfw"
-       target="blank"><img align="center"
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-             alt="ucn0kvxy7zvvylzp8cphinfw"
-             height="30"
-             width="40" /></a>
+<p align="center">
+    <a href="mailto:ykormushyn@gmail.com?subject=Hi%20Yaroslav%20Kormushyn">
+        <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.facebook.com/therealyarko">
+        <img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/therealyarko/">
+        <img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/ykormushyn">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://dev.to/yaroslavkormushyn">
+        <img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/13977648">
+        <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.youtube.com/channel/UCN0kvXy7zvvYLzp8CpHInFw">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:computer: &nbsp;Languages and Tools:</h3>
 
-<p align="left"> <a href="https://angular.io"
-       target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg"
-             alt="angular"
-             width="40"
-             height="40" /> </a> <a href="https://azure.microsoft.com/en-in/"
-       target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-             alt="azure"
-             width="40"
-             height="40" /> </a> <a href="https://getbootstrap.com"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-             alt="bootstrap"
-             width="40"
-             height="40" /> </a> <a href="https://www.w3schools.com/cs/"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-             alt="csharp"
-             width="40"
-             height="40" /> </a> <a href="https://www.w3schools.com/css/"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-             alt="css3"
-             width="40"
-             height="40" /> </a> <a href="https://www.cypress.io"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-             alt="cypress"
-             width="40"
-             height="40" /> </a> <a href="https://www.docker.com/"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-             alt="docker"
-             width="40"
-             height="40" /> </a> <a href="https://dotnet.microsoft.com/"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-             alt="dotnet"
-             width="40"
-             height="40" /> </a> <a href="https://firebase.google.com/"
-       target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-             alt="firebase"
-             width="40"
-             height="40" /> </a> <a href="https://git-scm.com/"
-       target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-             alt="git"
-             width="40"
-             height="40" /> </a> <a href="https://www.w3.org/html/"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-             alt="html5"
-             width="40"
-             height="40" /> </a> <a href="https://www.invisionapp.com/"
-       target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"
-             alt="invision"
-             width="40"
-             height="40" /> </a> <a href="https://jasmine.github.io/"
-       target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"
-             alt="jasmine"
-             width="40"
-             height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-             alt="javascript"
-             width="40"
-             height="40" /> </a> <a href="https://www.jenkins.io"
-       target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-             alt="jenkins"
-             width="40"
-             height="40" /> </a> <a href="https://karma-runner.github.io/latest/index.html"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg"
-             alt="karma"
-             width="40"
-             height="40" /> </a> <a href="https://kubernetes.io"
-       target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-             alt="kubernetes"
-             width="40"
-             height="40" /> </a> <a href="https://www.linux.org/"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-             alt="linux"
-             width="40"
-             height="40" /> </a> <a href="https://www.microsoft.com/en-us/sql-server"
-       target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-             alt="mssql"
-             width="40"
-             height="40" /> </a> <a href="https://www.postgresql.org"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-             alt="postgresql"
-             width="40"
-             height="40" /> </a> <a href="https://postman.com"
-       target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-             alt="postman"
-             width="40"
-             height="40" /> </a> <a href="https://sass-lang.com"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-             alt="sass"
-             width="40"
-             height="40" /> </a> <a href="https://www.typescriptlang.org/"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-             alt="typescript"
-             width="40"
-             height="40" /> </a> <a href="https://webpack.js.org"
-       target="_blank"> <img
-             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-             alt="webpack"
-             width="40"
-             height="40" /> </a> </p>
+<p align="center">
+    <a href="https://angular.io">
+        <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://azure.microsoft.com/en-in/">
+        <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://getbootstrap.com">
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://w3schoolsua.github.io/css/index.html#gsc.tab=0">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.docker.com/">
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://dotnet.microsoft.com/">
+        <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.w3.org/html/">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.microsoft.com/en-us/sql-server">
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://postman.com">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://sass-lang.com">
+        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.typescriptlang.org/">
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">:brain: &nbsp;Other knowledge, always learning:</h3>
+<p align="center">
+    <a href="https://www.cypress.io/">
+        <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://firebase.google.com/">
+        <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=ffca28" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.invisionapp.com/">
+        <img src="https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://jasmine.github.io/">
+        <img src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.jenkins.io">
+        <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://kubernetes.io">
+        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linux.org/">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.postgresql.org">
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://webpack.js.org">
+        <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-<p><a href="https://www.buymeacoffee.com/ykormushyn"> <img align="left"
-             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-             height="50"
-             width="210"
-             alt="ykormushyn" /></a></p><br><br><br>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/ykormushyn">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+             alt="Buy Me a Coffee at buymeacoffee.com"
+             data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+             style="max-width: 100%;">
+    </a>
+</p>
 
-<p><img align="left"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=yaroslavkormushyn&show_icons=true&locale=en&layout=compact"
-         alt="yaroslavkormushyn" /></p>
+<b>:gear: &nbsp;GitHub Statistics</b>
+<br />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+             src="https://github-profile-trophy.vercel.app/?username=yaroslavkormushyn&column=-1&theme=onestar&margin-w=15&margin-h=15"
+             alt="yaroslavkormushyn" /></a>
+</p>
+<p align="center">
+    
+</p>
+<p align="center">
+    <img height="137px"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=yaroslavkormushyn&hide_border=true&theme=nightowl" />
+    <img height="137px"
+         src="https://github-readme-stats.vercel.app/api?username=yaroslavkormushyn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
+    <img height="137px"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslavkormushyn&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+</p>
 
-<p><img align="center"
-         src="https://github-readme-stats.vercel.app/api?username=yaroslavkormushyn&show_icons=true&locale=en"
-         alt="yaroslavkormushyn" /></p>
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=yaroslavkormushyn&style=plastic&label=Views">
+    <img>
+    <img src="https://badges.pufler.dev/visits/yaroslavkormushyn/yaroslavkormushyn?color=black&logo=github" />
+</p>
