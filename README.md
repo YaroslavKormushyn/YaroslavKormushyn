@@ -5,7 +5,7 @@
 🔭 Working at [Idun Real Estate Solutions](https://idunrealestate.com/)\
 🌱 Learning **Azure Functions, Angular 16**\
 👨‍💻 All of my projects are available at [https://yaroslavkormushyn.github.io/](https://yaroslavkormushyn.github.io/)\
-💬 Ask me about **Angular, ASP.NET Core, Azure**\
+💬 Ask me about **Angular, ASP.NET Core, Azure**
 
 <h3 align="left">Connect with me:</h3>
 
